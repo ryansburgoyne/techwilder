@@ -1,0 +1,27 @@
+baseURL = 'https://techwilder.net/'
+languageCode = 'en-us'
+title = 'Techwilder'
+
+[[module.imports]]
+  path = "github.com/CaiJimmy/hugo-theme-stack/v3"
+
+[params.colorScheme]
+  toggle = false
+
+[[menu.social]]
+  weight = 2
+  url = "https://x.com/spacecrafter3d"
+  identifier = "x"
+
+  [menu.social.params]
+    icon = "brand-x"
+    newTab = true
+
+[[menu.social]]
+  weight = 1
+  url = "https://linkedin.com/in/ryansburgoyne"
+  identifier = "linkedin"
+
+  [menu.social.params]
+    icon = "brand-linkedin"
+    newTab = true
