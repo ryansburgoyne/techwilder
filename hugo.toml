@@ -5,8 +5,14 @@ title = 'Techwilder'
 [[module.imports]]
   path = "github.com/CaiJimmy/hugo-theme-stack/v3"
 
+[params]
+favicon = "/favicon.svg"
+
 [params.colorScheme]
   toggle = false
+
+[params.sidebar]
+  subtitle = "Thoughts on tech and storytelling from Ryan Burgoyne."
 
 [[menu.social]]
   weight = 2
