@@ -6,7 +6,7 @@ title = 'Techwilder'
   path = "github.com/CaiJimmy/hugo-theme-stack/v3"
 
 [params]
-favicon = "/favicon.svg"
+favicon = "/favicon.png"
 
 [params.colorScheme]
   toggle = false
