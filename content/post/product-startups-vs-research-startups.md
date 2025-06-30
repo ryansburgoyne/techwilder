@@ -1,8 +1,8 @@
-+++
-date = '2025-02-20T19:13:29-07:00'
-draft = true
-title = 'Is your startup a product startup or a research startup?'
-+++
+---
+date: '2025-02-20T19:13:29-07:00'
+draft: true
+title: 'Is Your Startup a Product Startup or a Research Startup?'
+---
 ### Research startups may have more luck fundraising pre-PMF, but in the end success means building something people want.
 
 We just made the painful decision to shut down my three-year-old startup, Skyglass. 
